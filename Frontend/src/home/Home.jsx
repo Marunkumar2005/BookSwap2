@@ -1,8 +1,8 @@
 import React from 'react'
 import '../index.css'
-import Navbar from '../components/navbar'
+import Navbar from '../components/Navbar'
 import Banner from '../components/Banner'
-import Footer from '../components/footer'
+import Footer from '../components/Footer'
 import Freebook from '../components/Freebook'
 import Imageslider from '../components/Imageslider'
 
